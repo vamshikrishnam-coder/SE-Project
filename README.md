@@ -1,5 +1,5 @@
 # Project Name
-## Library Automation
+<h1 style="text-align: centre"> Library Automation</h1>
 # Project Requirements
 
 # Technologies
