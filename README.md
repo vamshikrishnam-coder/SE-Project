@@ -2,11 +2,11 @@
 
 ## Project Requirements/Features
 ### 1. Admin
-      * Add books
-      * Confirm registration of user
-      * Can see all user details
-      * Remove/add users
-      * Make others admin
+ * Add books
+ * Confirm registration of user
+ * Can see all user details
+ * Remove/add users
+ * Make others admin
       * 
 ### 2. User
 > There are 3 types of users
