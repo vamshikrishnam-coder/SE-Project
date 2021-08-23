@@ -19,6 +19,10 @@ There are 3 types of users
         - Can buy a book, if availabe to sale by another user or by library.
         - 
     * Old user - User in break/due fine
+|New registration|Active user|Old user|
+|:---|:---|:---|
+|Registration yet to approve|Registration Approved|User in break/due fine|
+
 
 ## Software Specifications
 |Backend|Frontend|
