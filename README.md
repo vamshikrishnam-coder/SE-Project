@@ -9,7 +9,7 @@
       * Make others admin
       * 
 2. User
-There are 3 types of users
+> There are 3 types of users
     * New registration - Yet to approve
     * Active user - Access approved
         - Can lend max of 4 books.
