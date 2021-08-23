@@ -3,12 +3,12 @@
 ## Project Requirements
 
 ## Technologies
-|Techologies|
 |Backend|Frontend|
 |:---|:---|
 |Django (Python)|HTML|
 MySQL(Database)|CSS|
-||JS|
+|   |JS|
+
 1. Backend
    - Django (Python)
    - MySQL (Database)
