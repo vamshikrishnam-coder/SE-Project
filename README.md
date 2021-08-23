@@ -1,6 +1,6 @@
 <h1 align = "center"> Library Automation</h1>
 
-## Project Requirements/Features
+* ## Project Requirements/Features
 ### 1. Admin
  * Add books
  * Confirm registration of user
@@ -24,7 +24,7 @@
 - Can buy a book, if availabe to sale by another user or by library.
 
 
-## Software Specifications
+* ## Software Specifications
 |Backend|Frontend|
 |:---|:---|
 |Django (Python)|HTML|
