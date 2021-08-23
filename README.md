@@ -1,4 +1,4 @@
-<h1 style="align: center"> Library Automation</h1>
+<h1 align = "center"> Library Automation</h1>
 
 # Project Requirements
 
