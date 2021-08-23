@@ -14,6 +14,7 @@
 |New registration|Active user|Old user|
 |:---|:---|:---|
 |Registration yet to approve|Registration Approved|User in break/due fine|
+|Shows Registration Pending|Can Access comletely|Limited access|
 
 * New registration - Yet to approve
 * Active user - Access approved
