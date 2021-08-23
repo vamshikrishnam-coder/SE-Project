@@ -7,7 +7,7 @@
 |Backend|Frontend|
 |:---|:---|
 |Django (Python)|HTML|
-MySQL(Database)|CSS| JS
+MySQL(Database)|CSS| |JS|
 1. Backend
    - Django (Python)
    - MySQL (Database)
