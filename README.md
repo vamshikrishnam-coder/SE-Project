@@ -11,12 +11,19 @@
 2. User
 > There are 3 types of users
 
-
-
 |New registration|Active user|Old user|
 |:---|:---|:---|
 |Registration yet to approve|Registration Approved|User in break/due fine|
 
+    * New registration - Yet to approve
+    * Active user - Access approved
+        - Can lend max of 4 books.
+        - Request other user, if he needs a book taken by other user.
+        - Pays fine, if he lost the book.
+        - History of he took.
+        - Can buy a book, if availabe to sale by another user or by library.
+        - 
+    * Old user - User in break/due fine
 
 ## Software Specifications
 |Backend|Frontend|
