@@ -6,10 +6,8 @@
 |Techologies|
 |Backend|Frontend|
 |:---|:---|
-|Django (Python)
-MySQL(Database)| HTML
-|CSS
-JS|
+|Django (Python)|HTML|
+MySQL(Database)|CSS| JS
 1. Backend
    - Django (Python)
    - MySQL (Database)
