@@ -8,7 +8,7 @@
 |:---|:---|
 |Django (Python)
 MySQL(Database)| HTML
-CSS
+|CSS
 JS|
 1. Backend
    - Django (Python)
