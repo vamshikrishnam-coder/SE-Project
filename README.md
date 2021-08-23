@@ -12,12 +12,12 @@
 > There are 3 types of users
     * New registration - Yet to approve
     * Active user - Access approved
-            - Can lend max of 4 books.
-            - Request other user, if he needs a book taken by other user.
-            - Pays fine, if he lost the book.
-            - History of he took.
-            - Can buy a book, if availabe to sale by another user or by library.
-            - 
+          - Can lend max of 4 books.
+          - Request other user, if he needs a book taken by other user.
+          - Pays fine, if he lost the book.
+          - History of he took.
+          - Can buy a book, if availabe to sale by another user or by library.
+          - 
     * Old user - User in break/due fine
 
 ## Software Specifications
@@ -27,10 +27,3 @@
 MySQL(Database)|CSS|
 |   |JS|
 
-1. Backend
-   - Django (Python)
-   - MySQL (Database)
-2. Frontend
-   - HTML
-   - CSS
-   - JS
