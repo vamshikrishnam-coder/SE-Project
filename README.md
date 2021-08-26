@@ -2,7 +2,7 @@
 
 ## Members
 1. Jithendra Puppala - 191CS237
-2. Vamshikrishna M - 191CS261
+2. Vamshikrishna M - 191cs261
 3. Mahadev Hatti  - 191CS133
 
 
