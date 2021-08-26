@@ -1,5 +1,11 @@
 <h1 align = "center"> Library Automation</h1>
 
+## Members
+1. Jithendra Puppala - 191CS237
+2. Vamshikrishna - 191CS261
+3. Mahadev - 
+
+
 ## Project Description
 * This project is about library automation.  
 * This has some new features like requesting book from other students, buying books from catalogue, if available for sale etc.  
