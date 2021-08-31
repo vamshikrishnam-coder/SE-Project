@@ -4,6 +4,8 @@
 1. Jithendra Puppala - 191CS237
 2. Vamshikrishna M - 191cs261
 3. Mahadev Hatti  - 191CS133
+4. Keerthana Patil - 191CS231
+5. Harshita - 191CS120
 
 
 ## Project Description
