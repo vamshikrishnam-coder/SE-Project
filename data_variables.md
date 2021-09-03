@@ -40,6 +40,7 @@
 4. Other
     - Books for sale
         - Price
+        - book owner
         - All book details as above
     - Access book database
 
