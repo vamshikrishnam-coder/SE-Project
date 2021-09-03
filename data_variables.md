@@ -48,6 +48,7 @@
         - Requesting user
         - Book ID
         - Secret Key
+    - Library ID card
 
 5. Registration types
     - Archived
