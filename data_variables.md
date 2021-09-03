@@ -43,6 +43,11 @@
         - book owner
         - All book details as above
     - Access book database
+    - Request book
+        - Requestd user
+        - Requesting user
+        - Book ID
+        - Secret Key
 
 5. Registration types
     - Archived
