@@ -16,6 +16,7 @@
     - username
     - password
     - status(Accept/Rejected/Banned)
+    - Fine
 
 
 2. Admin
