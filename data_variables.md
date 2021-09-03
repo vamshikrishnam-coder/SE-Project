@@ -15,7 +15,7 @@
     - Generate Library ID
     - username
     - password
-    - status
+    - status(Accept/Rejected/Banned)
 
 
 2. Admin
@@ -42,3 +42,9 @@
         - Price
         - All book details as above
     - Access book database
+
+5. Registration types
+    - Archived
+    - New
+    - Accepted
+    - Rejected
