@@ -43,6 +43,7 @@
 - Pays fine, if he lost the book.
 - History of he took.
 - Can buy a book, if availabe to sale by another user or by library.
+- Can generate and use the Library ID card in PDF
 
 
 ## Software Specifications
