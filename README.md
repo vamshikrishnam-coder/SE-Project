@@ -52,5 +52,5 @@
 MySQL(Database)|CSS|
 |   |JS|
 
-## Links
+## Links and Documents
 ### 1. [Schema Document](https://docs.google.com/document/d/1xRhhgMQ8qZG436_hzpF3xj-nXgE0rf1wI6bEavzY5KE/edit)
