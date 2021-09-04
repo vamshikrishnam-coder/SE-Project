@@ -2,6 +2,7 @@
 
 ## Members
 ||Name|Roll No|Email|
+|---:|:---|:---:|:---|
 |1.| Jithendra Puppala | 191CS237 | <jithendra.191cs237@nitk.edu.in> |
 |2.| Vamshikrishna M | 191cs261 ||
 |3.| Mahadev Hatti  | 191CS133 ||
