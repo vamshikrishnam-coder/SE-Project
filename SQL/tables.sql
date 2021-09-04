@@ -1,0 +1,3 @@
+CREATE DATABASE LIBRARY;
+use database LIBRARY;
+
