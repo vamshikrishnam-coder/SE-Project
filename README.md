@@ -1,5 +1,15 @@
 <h1 align = "center"> Library Automation</h1>
 
+## Members
+||Name|Roll No|Email|
+|---:|:---|:---:|:---|
+|1.| Jithendra Puppala | 191CS237 | <jithendra.191cs237@nitk.edu.in> |
+|2.| Vamshikrishna M | 191CS261 ||
+|3.| Mahadev Hatti  | 191CS133 ||
+|4.| Keerthana Patil | 191CS231 ||
+|5.| Harshita | 191CS120 | <harshita.191cs120@nitk.edu.in>
+
+
 ## Project Description
 * This project is about library automation.  
 * This has some new features like requesting book from other students, buying books from catalogue, if available for sale etc.  
@@ -33,6 +43,7 @@
 - Pays fine, if he lost the book.
 - History of he took.
 - Can buy a book, if availabe to sale by another user or by library.
+- Can generate and use the Library ID card in PDF
 
 
 ## Software Specifications
@@ -42,3 +53,5 @@
 MySQL(Database)|CSS|
 |   |JS|
 
+## Links and Documents
+### 1. [Schema Document](https://docs.google.com/document/d/1xRhhgMQ8qZG436_hzpF3xj-nXgE0rf1wI6bEavzY5KE/edit)
