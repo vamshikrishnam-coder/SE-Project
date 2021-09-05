@@ -81,4 +81,20 @@ CREATE TABLE Subscription(Subscription_ID VARCHAR(100) PRIMARY KEY,
                Current_Book_Holder_ID VARCHAR(100),
                Book_Issued DATE,
                Book_Returned DATE,
-               Fine_with_Book INT(10));
+               Fine_with_Book INT(10),
+               FOREIGN KEY(Current_Book_Holder_ID) REFERENCES USER(library_id));
+  
+               
+#requesting_table
+CREATE TABLE Request(
+    Book_id INT NOT NULL references Book(Book_id),
+    DOR DATE NOT NULL,
+    NOA DATE NOT NULL,
+    Request_user_id int not null references USER(library_id),
+    giving _user_id int not null  references USER(library_id),
+    secret_key char(50) not null,
+    request_status int not null );
+    
+    
+    
+    
