@@ -9,10 +9,12 @@ CREATE TABLE USER (
     DOB DATE NOT NULL,
     gender char(1) NOT NULL check(gender="M" or gender="F),
     joined_date DATE NOT NULL,
-    username varchar(16) NOT NULL References ,
+    username varchar(16) NOT NULL References LOGIN(username),
     UID BIGINT(12) NOT NULL Unique
-);
+    );
 
 # Login details
 CREATE TABLE LOGIN (
+    username varchar(16) NOT NULL Unique PRIMARY KEY,
+    password varchar(100) NOT NULL
 );
