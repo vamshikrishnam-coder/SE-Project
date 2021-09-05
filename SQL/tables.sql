@@ -16,6 +16,6 @@ CREATE TABLE USER (
 
 # Login details
 CREATE TABLE LOGIN (
-    username varchar(16) Unique PRIMARY KEY,
+    username varchar(16) Unique PRIMARY KEY check(CHAR_LENGTH(username)>=8),
     password varchar(100) NOT NULL
 );
