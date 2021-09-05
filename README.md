@@ -7,7 +7,7 @@
 |2.| Vamshikrishna M | 191CS261 ||
 |3.| Mahadev Hatti  | 191CS133 ||
 |4.| Keerthana Patil | 191CS231 ||
-|5.| Harshita | 191CS120 ||
+|5.| Harshita | 191CS120 | <harshita.191cs120@nitk.edu.in>
 
 
 ## Project Description
