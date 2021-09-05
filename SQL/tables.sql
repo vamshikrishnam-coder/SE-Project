@@ -73,4 +73,12 @@ CREATE TABLE Subscription(Subscription_ID VARCHAR(100) PRIMARY KEY,
         Paid_Date DATE, 
        FOREIGN KEY(User_Library_ID) REFERENCES User_Library_Data(Username)
        FOREIGN KEY(Book_ID) REFERENCES Book(Book_ID));
-        
+       
+  
+  
+ #Book_History
+ CREATE TABLE Book_History(
+               Current_Book_Holder_ID VARCHAR(100),
+               Book_Issued DATE,
+               Book_Returned DATE,
+               Fine_with_Book INT(10));
